@@ -217,7 +217,7 @@
 			</div>
 		</div>
 		<div id=footer>
-			Written by <a href="http://spacerat.meteornet.net">Joseph Atkins-Turkish</a>
+			Written by <a href="http://veryjoe.com">Joseph Atkins-Turkish</a>
 		</div>
 	</body>
 </html>
